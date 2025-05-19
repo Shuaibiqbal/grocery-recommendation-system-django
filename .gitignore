@@ -1,2 +1,5 @@
-grocery_rec/recommender/data/
+# Ignore all CSV files inside the data folder
+grocery_rec/recommender/data/*.csv
+
+# Ignore model.pkl file
 grocery_rec/recommender/model.pkl
